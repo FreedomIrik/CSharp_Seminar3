@@ -1,0 +1,15 @@
+C:\Users\Ирик\Desktop\Geekbrains\C#\Seminar_3\Zadacha_18\obj\Debug\net6.0\Zadacha_18.csproj.AssemblyReference.cache
+C:\Users\Ирик\Desktop\Geekbrains\C#\Seminar_3\Zadacha_18\obj\Debug\net6.0\Zadacha_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирик\Desktop\Geekbrains\C#\Seminar_3\Zadacha_18\obj\Debug\net6.0\Zadacha_18.AssemblyInfoInputs.cache
+C:\Users\Ирик\Desktop\Geekbrains\C#\Seminar_3\Zadacha_18\obj\Debug\net6.0\Zadacha_18.AssemblyInfo.cs
+C:\Users\Ирик\Desktop\Geekbrains\C#\Seminar_3\Zadacha_18\obj\Debug\net6.0\Zadacha_18.csproj.CoreCompileInputs.cache
+C:\Users\Ирик\Desktop\Geekbrains\C#\Seminar_3\Zadacha_18\bin\Debug\net6.0\Zadacha_18.exe
+C:\Users\Ирик\Desktop\Geekbrains\C#\Seminar_3\Zadacha_18\bin\Debug\net6.0\Zadacha_18.deps.json
+C:\Users\Ирик\Desktop\Geekbrains\C#\Seminar_3\Zadacha_18\bin\Debug\net6.0\Zadacha_18.runtimeconfig.json
+C:\Users\Ирик\Desktop\Geekbrains\C#\Seminar_3\Zadacha_18\bin\Debug\net6.0\Zadacha_18.dll
+C:\Users\Ирик\Desktop\Geekbrains\C#\Seminar_3\Zadacha_18\bin\Debug\net6.0\Zadacha_18.pdb
+C:\Users\Ирик\Desktop\Geekbrains\C#\Seminar_3\Zadacha_18\obj\Debug\net6.0\Zadacha_18.dll
+C:\Users\Ирик\Desktop\Geekbrains\C#\Seminar_3\Zadacha_18\obj\Debug\net6.0\refint\Zadacha_18.dll
+C:\Users\Ирик\Desktop\Geekbrains\C#\Seminar_3\Zadacha_18\obj\Debug\net6.0\Zadacha_18.pdb
+C:\Users\Ирик\Desktop\Geekbrains\C#\Seminar_3\Zadacha_18\obj\Debug\net6.0\Zadacha_18.genruntimeconfig.cache
+C:\Users\Ирик\Desktop\Geekbrains\C#\Seminar_3\Zadacha_18\obj\Debug\net6.0\ref\Zadacha_18.dll
